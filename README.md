@@ -34,7 +34,7 @@ Make sure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yolo-flask-opencv-app.git
+   git clone https://github.com/Tanvir-yzu/Yolo_Version_Test.git
    cd yolo-flask-opencv-app
    ```
 
@@ -80,7 +80,7 @@ By default, the following object classes are detected:
 - Bicycle
 - Motorbike
 - Bus
-- ... and many more (complete list in `app.py`)
+- ... and many more (complete list in `main.py`)
 
 ## Customization 🛠️
 
@@ -99,4 +99,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flask](https://flask.palletsprojects.com/)
 
 Feel free to contribute, open issues, or suggest new features! 😊
-```
+
